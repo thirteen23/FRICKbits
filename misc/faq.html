@@ -1,0 +1,141 @@
+<html>
+  <head>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script>
+    $(document).ready(function() {
+                      $('dd').hide();
+                      $('dt').click(
+                                    function() {
+                                    var toggle = $(this).nextUntil('dt');
+                                    toggle.slideToggle();
+                                    $('dd').not(toggle).slideUp();
+                                    });
+                      });
+    </script>
+    <style>
+    body{
+      font-family: 'Raleway', sans-serif;
+      color: #4d4d4d;
+    }
+    h1 {
+      font-size: 20px;
+    }
+    dt {
+      background-color: #f7f7f7;
+      font-size: 14px;
+      font-weight: 600;
+      margin-bottom: 10px;
+      margin-left: 2px;
+      margin-right: 2px;
+      padding-top: 7px;
+      padding-bottom: 7px;
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+    dd {
+      font-size: 14px;
+      font-weight: 400;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-left: 2px;
+      margin-right: 2px;
+      padding-left: 15px;
+      padding-right: 15px;
+      line-height: 180%;
+    }  
+    a:link {
+      color: #444444;
+      font-weight: 600;
+      text-decoration: none;
+  }
+  a:visited {
+      color: #444444;
+      font-weight: 600;
+      text-decoration: none;
+  }
+  a:hover {
+      color: #444444;
+      font-weight: 600;
+      text-decoration: none;
+  }
+  a:active {
+      color: #444444;
+      font-weight: 600;
+      text-decoration: none;
+  }  
+    </style>
+  </head>
+  <body>
+    <div class="faq-content">
+      <dl>
+
+        <dt>What do colors mean?</dt>
+        <dd>
+          You earn small multicolored bits for routes you frequent. Longer stretches are longer bits. Change the color palette to evoke the color memory of a city or place.
+        </dd>
+
+        <dt>The pattern isn't my exact route.</dt>
+        <dd>
+          Nowadays we see our routes in accurate scale, but that's not how we remember it. Your FRICKbits are abstract patterns of places you go all the time, with the occasional outlier.
+        </dd>
+
+        <dt>What are the little numbers?</dt>
+        <dd>
+          Like the numbers and street signs you see and forget, the tiny numbers are like the random bits you pass by.
+        </dd>
+
+        <dt>When do I see more pattern?</dt>
+        <dd>
+          It accumulates over time, zoom in for more dots, clusters form in familiar places...keep moving.
+        </dd>
+
+        <dt>Map puts me in places I've never gone.</dt>
+        <dd>
+          Yep, art can have a mind of its own. So does the GPS on your iPhone.
+        </dd>
+
+        <dt>Grey dots?</dt>
+        <dd>
+          These are more specific data of your location...like breadcrumbs.
+        </dd>
+
+        <dt>Export data?</dt>
+        <dd>
+          Columns are latitude, longitude, and UTC timestamp.
+        </dd>
+
+        <dt>Battery impact?</dt>
+        <dd>
+          It's minimal. We use iOS occasional and significant movement data.
+        </dd>
+
+        <dt>Is my data private?</dt>
+        <dd>
+          We never see or collect your locations. It's private to you.
+        </dd>
+
+        <dt>Can I take a screen shot?</dt>
+        <dd>
+          Press the round home and on/off button simultaneously to capture a screen image.
+        </dd>
+
+        <dt>Can I print it?</dt>
+        <dd>
+          Save image or screen capture and print. We're actively working on some ideas here.
+        </dd>
+
+        <dt>Who made this?</dt>
+        <dd>
+          Designed and developed by <a href="http://www.thirteen23.com">thirteen23</a> with data artist <a href="http://www.lauriefrick.com">Laurie Frick</a>.
+        </dd>
+
+        <dt>Map Attribution</dt>
+        <dd>
+          Map tileset data <a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy;Mapbox &copy;OpenStreetMap</a>
+        </dd>
+
+      </dl>      
+    </div>    
+  </body>
+</html>
