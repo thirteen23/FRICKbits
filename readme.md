@@ -17,6 +17,7 @@ Launched in Fall of 2014, FRICKbits was a collaboration between Laurie Frick, an
 Laurie Frick is a data artist from Austin, Texas who makes hand-built work about the future of data about you. Laurie Frick has been transforming her personal data, including location, steps, sleep and weight 
 into  abstract,  hand-built  wall  size  installations  for  years.  FRICKbits  is  a  way  to  reclaim  your  data  in  the hopes that someday, many companies with let you “take back your data, and turn it into art!!”. 
 <br /><br />
-Contact: more images at [http://www.lauriefrick.com](http://www.lauriefrick.com) more about FRICKbits at [http://www.frickbits.com](http://www.frickbits.com) and email [laurie@lauriefrick.com](mailto:laurie@lauriefrick.com)
+###### CONTACT 
+More images at [http://www.lauriefrick.com](http://www.lauriefrick.com) more about FRICKbits at [http://www.frickbits.com](http://www.frickbits.com) and email [laurie@lauriefrick.com](mailto:laurie@lauriefrick.com)
 
 
