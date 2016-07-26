@@ -7,7 +7,7 @@ Many  websites  and  fitness  apps gather pedometer and location data, but the o
 <br /><br />
 ###### DESCRIPTION
 FRICKbits gathers occasional location data, a clever means to not have any noticeable impact on battery life and shows actual location with tiny monotone dots and brightly colored patterns on a minimalist Mapbox layout. While the user can choose and change color palette at any time, they ‘ earn’  smaller colored bits and clusters for the locations traveled most frequently. Long stretches of pattern stand in for the occasional and high-speed movements. Location data accumulates, and the pattern gathers richness and texture over time. Touch the screen and you shift back and forth from the actual map to the abstract art of your travels.
-<br />
+<br /><br />
 As  for  privacy,  the  data  belongs  only  to  the  user, you  gather  occasional  iOS  location  data  and  the  appdisplays  it  on the  phone. The  app  runs  entirely  on the iOS  devise  with  no  server  backend.  It’ s  up  to  the FRICKbits user to share, tweet or post the art. One button lets you clear or export the data at any time.
 <br /><br />
 ###### WHY OPEN SOURCE?
