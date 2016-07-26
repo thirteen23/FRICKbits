@@ -1,4 +1,4 @@
-# FRICKbits
+![FRICKbits](https://s3.amazonaws.com/t23-frickbits/images/FRI_Logo_100.png "FRICKbits")
 
 ## A data-selfie? Turn data into art on your phone
 <br /><br />
