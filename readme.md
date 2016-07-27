@@ -14,7 +14,7 @@ The result of a collaboration between artist Laurie Frick and digital product st
 FRICKbits gathers occasional location data in order to have minimal impact on battery life and shows actual location with tiny monotone dots and brightly colored patterns on minimalist maps from Mapbox. Users can choose the color palette at any time, and they “earn” smaller colored bits and clusters for the locations traveled most frequently. Long stretches of pattern stand in for high-speed movements. Location data accumulates, and the pattern gathers richness and texture over time. Touch the screen and you shift back and forth from the actual map to the abstract art of your travels.<br />
 
 ![Switching between map and art views](https://s3.amazonaws.com/t23-frickbits/images/FRI_Animation.gif "Switching between map and art views")
-<br />
+<br /><br />
 As for privacy, the data belongs only to the user, you gather occasional iOS location data and the app displays it on the phone. The app runs entirely on the iOS device with no server backend. It’s up to the FRICKbits user to share, tweet or post the art. One button lets you clear or export the data at any time. 
 <br /><br />
 
