@@ -38,4 +38,5 @@ Launched in fall of 2014, FRICKbits was a collaboration between Laurie Frick and
 [FRICKbits Website](http://www.frickbits.com/)<br />
 [FRICKbits Case Study](http://thirteen23.com/projects/frickbits/)<br />
 [Color Library for FRICKbits](https://medium.com/hello-thirteen23/ios-color-library-b48053950e2c)<br />
-[Contact Laurie Frick](mailto:laurie@lauriefrick.com)
+<br />
+Contact [Laurie Frick](mailto:laurie@lauriefrick.com) or [thirteen23](mailto:hello@thirteen23.com)
