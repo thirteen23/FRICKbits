@@ -6,14 +6,14 @@
 
 The result of a collaboration between artist Laurie Frick and digital product studio thirteen23, this app has the characteristics of handcrafted watercolor drawings and attempts to change the way you see the data gathered about you. FRICKbits uses your location data to draw the patterns of where you travel in a city, or for that matter anywhere on the globe. The repetition of travel patterns and stray movements transform into a data portrait of you. A data-selfie.
 
-![FRICKbits in use](https://s3.amazonaws.com/t23-frickbits/images/FRI_Photo.jpg "FRICKbits in use”)
+![FRICKbits in use](https://s3.amazonaws.com/t23-frickbits/images/FRI_Photo.jpg "FRICKbits in use")
 <br /><br />
 
 ###### DESCRIPTION
 
 FRICKbits gathers occasional location data in order to have minimal impact on battery life and shows actual location with tiny monotone dots and brightly colored patterns on minimalist maps from Mapbox. Users can choose the color palette at any time, and they “earn” smaller colored bits and clusters for the locations traveled most frequently. Long stretches of pattern stand in for high-speed movements. Location data accumulates, and the pattern gathers richness and texture over time. Touch the screen and you shift back and forth from the actual map to the abstract art of your travels.
 
-![Switching between map and art views](https://s3.amazonaws.com/t23-frickbits/images/FRI_Animation.gif "Switching between map and art views”)
+![Switching between map and art views](https://s3.amazonaws.com/t23-frickbits/images/FRI_Animation.gif "Switching between map and art views")
 
 As for privacy, the data belongs only to the user, you gather occasional iOS location data and the app displays it on the phone. The app runs entirely on the iOS device with no server backend. It’s up to the FRICKbits user to share, tweet or post the art. One button lets you clear or export the data at any time. 
 <br /><br />
@@ -35,7 +35,7 @@ Launched in fall of 2014, FRICKbits was a collaboration between Laurie Frick and
 
 
 ###### LEARN MORE
-[FRICKbits Website](http://www.frickbits.com/)
-[FRICKbits Case Study](http://thirteen23.com/projects/frickbits/)
-[Color Library for FRICKbits](https://medium.com/hello-thirteen23/ios-color-library-b48053950e2c)
+[FRICKbits Website](http://www.frickbits.com/)<br />
+[FRICKbits Case Study](http://thirteen23.com/projects/frickbits/)<br />
+[Color Library for FRICKbits](https://medium.com/hello-thirteen23/ios-color-library-b48053950e2c)<br />
 [Contact Laurie Frick](mailto:laurie@lauriefrick.com)
