@@ -1,6 +1,6 @@
 ![FRICKbits](https://s3.amazonaws.com/t23-frickbits/images/FRI_Logo.png "FRICKbits")
 
-## A data-selfie? Turn data into art on your phone
+## A digital portrait? Turn you data into art.
 
 ###### BACKGROUND
 
@@ -22,7 +22,7 @@ As for privacy, the data belongs only to the user, you gather occasional iOS loc
 ###### WHY OPEN SOURCE?
 
 Launched in fall of 2014, FRICKbits was a collaboration between Laurie Frick and thirteen23. Long story short, thirteen23 has a lobby installation of their chat metadata and Frick got an app that demonstrates the experience of turning data into art on a phone. As it was never intended as a money-making endeavor, now is a good time to open FRICKbits to the public. Now others can play with it, make it into a new application or get a chance to directly fiddle with the notion of turning data into art.
-*This code is not actively maintained by thirteen23.*
+*This code is not actively maintained.*
 <br /><br />
 
 
@@ -30,7 +30,7 @@ Launched in fall of 2014, FRICKbits was a collaboration between Laurie Frick and
 
 [Laurie Frick](http://www.lauriefrick.com/) is a data artist from Austin, Texas who makes hand-built work about the future of data about you. Laurie Frick has been transforming her personal data, including location, steps, sleep and weight into abstract, hand-built wall size installations for years.
 
-[thirteen23](http://thirteen23.com/projects/frickbits/) is an interactive product studio dedicated to the craft of digital. We conceive, design, and build intelligent software.
+[thirteen23](http://thirteen23.com/projects/frickbits/) is an independent design studio in Austin, Texas. Together with our partners we help conceive, design, and develop intelligent software.
 <br /><br />
 
 
