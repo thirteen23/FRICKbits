@@ -1,10 +1,10 @@
 ![FRICKbits](https://s3.amazonaws.com/t23-frickbits/images/FRI_Logo.png "FRICKbits")
 
-## A digital portrait? Turn you data into art.
+## A digital portrait? Turn your data into art.
 
 ###### BACKGROUND
 
-The result of a collaboration between artist Laurie Frick and digital product studio thirteen23, this app has the characteristics of handcrafted watercolor drawings and attempts to change the way you see the data gathered about you. FRICKbits uses your location data to draw the patterns of where you travel in a city, or for that matter anywhere on the globe. The repetition of travel patterns and stray movements transform into a data portrait of you. A data-selfie.
+The result of a collaboration between artist Laurie Frick and digital product studio thirteen23, this app has the characteristics of handcrafted watercolor drawings and attempts to change the way you see the data gathered about you. FRICKbits uses your location data to draw the patterns of where you travel in a city, or for that matter anywhere on the globe. The repetition of travel patterns and stray movements transform into a data portrait of you--a data-selfie.
 
 ![FRICKbits in use](https://s3.amazonaws.com/t23-frickbits/images/FRI_Photo.jpg "FRICKbits in use")
 <br /><br />
@@ -21,7 +21,7 @@ As for privacy, the data belongs only to the user, you gather occasional iOS loc
 
 ###### WHY OPEN SOURCE?
 
-Launched in fall of 2014, FRICKbits was a collaboration between Laurie Frick and thirteen23. Long story short, thirteen23 has a lobby installation of their chat metadata and Frick got an app that demonstrates the experience of turning data into art on a phone. As it was never intended as a money-making endeavor, now is a good time to open FRICKbits to the public. Now others can play with it, make it into a new application or get a chance to directly fiddle with the notion of turning data into art.
+Launched in fall of 2014, FRICKbits was a collaboration between Laurie Frick and thirteen23. Long story short, thirteen23 has a lobby installation of their chat metadata and Frick got an app that demonstrates the experience of turning data into art on a phone. As it was never intended as a money-making endeavor, we have decided to open FRICKbits to the public. Now others can play with it, make it into a new application, or directly fiddle with our code.
 *This code is not actively maintained.*
 <br /><br />
 
